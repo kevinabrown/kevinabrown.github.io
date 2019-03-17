@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
 #        ("/categories/", "Tags"),
 #        ("/rss.xml", "RSS feed"),
         ("/research", "Research"),
+        ("/publications", "Publications"),
         ("/blogroll", "Blog"),
     ),
 }

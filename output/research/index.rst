@@ -8,25 +8,25 @@
 .. type: text
 
 
-`Tracking and Vizualizing MPI Link Traffic`__
-=============================================
+`TRACKING AND VISUALIZING MPI LINK TRAFFIC`__
+
 .. _tracking: /research_mpitraffic
 __ tracking_
 
-|
 
 .. container:: topic 
 
         {{% thumbnail "/images/research_m_fig1.png" align="left" %}}{{% /thumbnail %}} 
         Optimizing inter-process communication remains challenging while being critical for ensuring good performance. This work presents a method for undertaking performance analysis of complex communication routines, such as MPI collectives, running on large-scale InfiniBand networks. This method involves adding new events to the Peruse utility in Open MPI, tracing these events during the collective communication operation, and mapping the trace information to links within the physical network. BoxFish is then used to visualize the data in order to easily identify network bottlenecks that occur during our run. The non-intrusive tracing library incurs less than 1% application runtime overhead and our method successfully identifies points of potential contention within our network.
 
+|
+|
 
-`MPI vs. I/O Traffic Interference on Fat-tree Networks`__
-=========================================================
+`MPI vs. I/O TRAFFIC INTERFERENCE ON FAT-TREE NETWORKS`__
+
 .. _interference: /research_interference
 __ interference_
 
-|
 
 .. container:: topic 
 
