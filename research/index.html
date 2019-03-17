@@ -13,13 +13,10 @@
 <meta property="og:site_name" content="Kevin A. Brown">
 <meta property="og:title" content="Research">
 <meta property="og:url" content="https://kevinabrown.github.io/research/">
-<meta property="og:description" content="Tracking and Vizualizing MPI Link Traffic
+<meta property="og:description" content="TRACKING AND VISUALIZING MPI LINK TRAFFIC
 
 
-
-
-
-Optimizing inter-process communication remains challenging while being critical for ensuring good performance. This work presents a method for undertakin">
+Optimizing inter-process communication remains challenging while being critical for ensuring good performance. This work presents a method for undertaking p">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2019-03-08T22:09:42-06:00">
 </head>
@@ -47,6 +44,9 @@ Optimizing inter-process communication remains challenging while being critical 
             <ul class="nav navbar-nav">
 <li>
 <a href="../research">Research</a>
+                </li>
+<li>
+<a href="../publications">Publications</a>
                 </li>
 <li>
 <a href="../blogroll">Blog</a>
@@ -77,24 +77,18 @@ Optimizing inter-process communication remains challenging while being critical 
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
-<div class="section" id="tracking-and-vizualizing-mpi-link-traffic">
-<h2><a class="reference external" href="../research_mpitraffic">Tracking and Vizualizing MPI Link Traffic</a></h2>
-<div class="line-block">
-<div class="line"><br></div>
-</div>
+<p><a class="reference external" href="../research_mpitraffic">TRACKING AND VISUALIZING MPI LINK TRAFFIC</a></p>
 <div class="topic docutils container">
 <a href="../images/research_m_fig1.png" class="image-reference"><img src="../images/research_m_fig1.thumbnail.png" class=" align-left"></a>
 Optimizing inter-process communication remains challenging while being critical for ensuring good performance. This work presents a method for undertaking performance analysis of complex communication routines, such as MPI collectives, running on large-scale InfiniBand networks. This method involves adding new events to the Peruse utility in Open MPI, tracing these events during the collective communication operation, and mapping the trace information to links within the physical network. BoxFish is then used to visualize the data in order to easily identify network bottlenecks that occur during our run. The non-intrusive tracing library incurs less than 1% application runtime overhead and our method successfully identifies points of potential contention within our network.</div>
-</div>
-<div class="section" id="mpi-vs-i-o-traffic-interference-on-fat-tree-networks">
-<h2><a class="reference external" href="../research_interference">MPI vs. I/O Traffic Interference on Fat-tree Networks</a></h2>
 <div class="line-block">
 <div class="line"><br></div>
+<div class="line"><br></div>
 </div>
+<p><a class="reference external" href="../research_interference">MPI vs. I/O TRAFFIC INTERFERENCE ON FAT-TREE NETWORKS</a></p>
 <div class="topic docutils container">
 <a href="../images/research_d_fig1.png" class="image-reference"><img src="../images/research_d_fig1.thumbnail.png" class=" align-right"></a>
 The scale and complexities of supercomputer networks make it difficult to analyze and optimize communication performance on shared systems. This work presents an efficient method of identifying network anomalies in MPI applications through low-overhead profiling of network metrics in the MPI library and visualizing application traffic over network links. Additionally, the work presents a characterization of the interference between MPI traffic and I/O traffic on fat-tree networks, showing the interference trends of both traffic types. One recurring finding is that MPI traffic is more sensitive than I/O traffic due to an “I/O-congestion threshold”. Finally, strategies for mitigating the slowdown due to the I/O-MPI interference are evaluated and shown to be effective in improving overall performance.</div>
-</div>
 </div>
     </div>
     

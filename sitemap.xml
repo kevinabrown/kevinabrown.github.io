@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://kevinabrown.github.io/</loc>
-  <lastmod>2019-03-16T01:13:00Z</lastmod>
+  <lastmod>2019-03-17T03:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://kevinabrown.github.io/2019/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://kevinabrown.github.io/archive.html</loc>
-  <lastmod>2019-03-16T03:48:00Z</lastmod>
+  <lastmod>2019-03-17T05:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://kevinabrown.github.io/blog/</loc>
@@ -54,20 +54,36 @@
   <lastmod>2019-02-11T05:26:00Z</lastmod>
  </url>
  <url>
-  <loc>https://kevinabrown.github.io/posts/another-test/</loc>
-  <lastmod>2019-03-09T22:29:00Z</lastmod>
+  <loc>https://kevinabrown.github.io/papers/Brown2015.html</loc>
+  <lastmod>2019-03-17T04:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://kevinabrown.github.io/posts/hello-world/</loc>
-  <lastmod>2019-02-11T05:26:00Z</lastmod>
+  <loc>https://kevinabrown.github.io/papers/Brown2017a.html</loc>
+  <lastmod>2019-03-17T04:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kevinabrown.github.io/papers/Brown2017b.html</loc>
+  <lastmod>2019-03-17T04:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kevinabrown.github.io/papers/Brown2018.html</loc>
+  <lastmod>2019-03-17T04:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kevinabrown.github.io/papers/Salaria2017.html</loc>
+  <lastmod>2019-03-17T04:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kevinabrown.github.io/papers/brown14.html</loc>
+  <lastmod>2019-03-17T04:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://kevinabrown.github.io/posts/no-sunshine/</loc>
   <lastmod>2019-02-11T05:54:00Z</lastmod>
  </url>
  <url>
-  <loc>https://kevinabrown.github.io/posts/test-1/</loc>
-  <lastmod>2019-03-09T22:29:00Z</lastmod>
+  <loc>https://kevinabrown.github.io/publications/</loc>
+  <lastmod>2019-03-17T03:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://kevinabrown.github.io/research/</loc>
