@@ -10,7 +10,10 @@
 
 .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/tIdIqbv7SPo" frameborder="0"> </iframe>
+        <iframe src="https://www.youtube.com/embed/tIdIqbv7SPo" frameborder="0" style="width:560px;height:315px;display:block;margin: 0 auto;" align="middle" ></iframe>
+
+|
+|
 
 Sometimes it can be hard to see the benefit of progress when, in order to move forward, we must leave behind a part of ourselves that we’ve cherished so intensely. When you know taking that one step forward will break you away from a moment that can never be revisited, where do you find the courage to move?
 
