@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://kevinabrown.github.io/archive.html</loc>
-  <lastmod>2019-03-17T05:06:00Z</lastmod>
+  <lastmod>2019-07-13T01:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://kevinabrown.github.io/blog/</loc>
@@ -52,6 +52,10 @@
  <url>
   <loc>https://kevinabrown.github.io/listings/</loc>
   <lastmod>2019-02-11T05:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kevinabrown.github.io/posts/avoiding-type-3-fonts-in-matplotlib-plots/</loc>
+  <lastmod>2019-07-13T01:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://kevinabrown.github.io/posts/no-sunshine/</loc>
