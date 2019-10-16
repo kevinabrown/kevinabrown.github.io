@@ -15,7 +15,10 @@
 
 **Kevin A. Brown, PhD**
 
-*Research Scientist : High-performance Computing*
+| *Postdoctoral Appointee (Exascale Interconnect Performance Evaluation)* 
+| **Leadership Computing Facility**
+| **Argonne National Laboratory**
+
 
 |
 
