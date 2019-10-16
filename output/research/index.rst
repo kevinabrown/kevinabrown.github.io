@@ -22,7 +22,7 @@ __ tracking_
         :width: 250
         :target: /research_mpitraffic
 
-Optimizing inter-process communication remains challenging while being critical for ensuring good performance. This work presents a method for undertaking performance analysis of complex communication routines, such as MPI collectives, running on large-scale InfiniBand networks. This method involves adding new events to the Peruse utility in Open MPI, tracing these events during the collective communication operation, and mapping the trace information to links within the physical network. BoxFish is then used to visualize the data in order to easily identify network bottlenecks that occur during our run. The non-intrusive tracing library incurs less than 1% application runtime overhead and our method successfully identifies points of potential contention within our network.
+Optimization of inter-process communication remains challenging while being critical for ensuring good performance. This work presents a method for undertaking performance analysis of complex communication routines, such as MPI collectives, running on large-scale InfiniBand networks. This method involves adding new events to the Peruse utility in Open MPI, tracing these events during the collective communication operation, and mapping the trace information to links within the physical network. BoxFish is then used to visualize the data in order to easily identify network bottlenecks that occur during our run. The non-intrusive tracing library incurs less than 1% application runtime overhead and our method successfully identifies points of potential contention within our network.
 
 
 |
