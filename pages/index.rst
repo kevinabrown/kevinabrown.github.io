@@ -22,6 +22,10 @@
 
 |
 
+`Biography page @ Argonne. <https://www.anl.gov/profile/kevin-a-brown>`_
+
+|
+
 ``- On the edge of reason and passion -``
 
 .. `- Research Topics`__
@@ -37,4 +41,4 @@
 |
 |
 
-(The site is still under construction.)
+(The placeholder site will be moved shortly.)
