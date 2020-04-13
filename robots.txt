@@ -1,4 +1,0 @@
-Sitemap: https://kevinabrown.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: kevinabrown.github.io
