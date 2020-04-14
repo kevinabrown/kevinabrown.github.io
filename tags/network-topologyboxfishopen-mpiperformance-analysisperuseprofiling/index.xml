@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Network topology;Boxfish;Open MPI;Performance analysis;Peruse;profiling | Kevin A. Brown, PhD</title>
+    <title>Network topology;Boxfish;Open MPI;Performance analysis;Peruse;profiling on Kevin A. Brown, PhD</title>
     <link>https://kevinabrown.github.io/tags/network-topologyboxfishopen-mpiperformance-analysisperuseprofiling/</link>
-      <atom:link href="https://kevinabrown.github.io/tags/network-topologyboxfishopen-mpiperformance-analysisperuseprofiling/index.xml" rel="self" type="application/rss+xml" />
-    <description>Network topology;Boxfish;Open MPI;Performance analysis;Peruse;profiling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://kevinabrown.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Network topology;Boxfish;Open MPI;Performance analysis;Peruse;profiling</title>
-      <link>https://kevinabrown.github.io/tags/network-topologyboxfishopen-mpiperformance-analysisperuseprofiling/</link>
-    </image>
+    <description>Recent content in Network topology;Boxfish;Open MPI;Performance analysis;Peruse;profiling on Kevin A. Brown, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kevinabrown.github.io/tags/network-topologyboxfishopen-mpiperformance-analysisperuseprofiling/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Hardware-Centric Analysis of Network Performance for MPI Applications</title>
       <link>https://kevinabrown.github.io/publication/brown-2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://kevinabrown.github.io/publication/brown-2015/</guid>
       <description></description>
     </item>
