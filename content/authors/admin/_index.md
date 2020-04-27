@@ -18,9 +18,10 @@ organizations:
   url: "www.anl.gov"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is on evaluation of exascale interconnect performance.
+bio: I am a supercomputing researcher focusing on the evaluation of exascale interconnect performance.
 
 interests:
+- Supercomputing
 - Performance measurement and analysis
 - Network interconnects
 - Parallel I/O
@@ -70,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Kevin A. Brown is a Postdoctoral Scholar in the Argonne Leadership Computing Facility at the Argonne National Laboratory, a US Department of Energy national research laboratory. 
-Kevin's research topic is focused on the _Exascale Interconnect Performance Evaluation_.
+Kevin A. Brown is a Postdoctoral Scholar in the Argonne Leadership Computing Facility (ALCF) at Argonne National Laboratory, a US Department of Energy national research laboratory. 
+Kevin works in the area of large-scale high-performance computing (supercomputing) with his current research focused on _Exascale Interconnect Performance Evaluation_.
 
 Kevin's profile page at ANL is located [here](https://www.anl.gov/profile/kevin-a-brown).
