@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:kb@anl.gov".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/kevin_a_brown
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.mx/citations?user=DuvGS8EAAAAJ&hl
