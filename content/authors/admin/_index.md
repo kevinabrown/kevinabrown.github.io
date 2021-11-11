@@ -23,8 +23,9 @@ bio: I am a supercomputing researcher focusing on the evaluation of exascale int
 interests:
 - Supercomputing
 - Performance measurement and analysis
-- Network interconnects
-- Parallel I/O
+- Network interconnects and I/O
+- Artificial Intelligence
+- Climate Science
 
 education:
   courses:
@@ -70,7 +71,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Kevin A. Brown is the inaugural Walter Massey Fellow at Argonne National Laboratory, a US Department of Energy national research laboratory.
-Kevin works in the area of network performance analysis and simulation as the PI for the project _Improving Data Movement Performance for Emerging AI and Climate Science Workloads on Future Supercomputers_, a 3-year Laboratory Directed Research Development (LDRD) Program funded project. 
+Kevin A. Brown is the inaugural Walter Massey (Postdoctoral) Fellow at Argonne National Laboratory, a US Department of Energy national research laboratory.
+
+Kevin works in the area of network performance analysis and simulation as the PI for the project __Improving Data Movement Performance for Emerging AI and Climate Science Workloads on Future Supercomputers__, a 3-year Laboratory Directed Research Development (LDRD) Program funded project. 
 
 Kevin's profile page at ANL is located [here](https://www.anl.gov/profile/kevin-a-brown).
