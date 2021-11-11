@@ -18,11 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Argonne Scholar - Walter Massey Fellow"
+  company = "Argonne National Laboratory"
+  company_url = "www.anl.gov"
+  location = "Illinois, USA"
+  date_start = "2021-10-18"
+  date_end = ""
+  description = """
+  * Principal Investigator (PI) for the project "Improving Data Movement Performance for Emerging AI and Climate Science Workloads on Future Supercomputers".
+  * Using machine learning to configure network quality-of-service."""
+
+[[experience]]
   title = "Postdoctoral Appointee - Exascale Interconnect Performance Evaluation"
   company = "Argonne National Laboratory"
   company_url = "www.anl.gov"
   location = "Illinois, USA"
-  date_start = "2018-10-01"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
   * Member of the Performance Engineering Group in the Argonne Leadership Computing Facility (ALCF).
