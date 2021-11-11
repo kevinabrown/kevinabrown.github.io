@@ -73,6 +73,6 @@ user_groups:
 ---
 Kevin A. Brown is the inaugural Walter Massey (Postdoctoral) Fellow at Argonne National Laboratory, a US Department of Energy national research laboratory.
 
-Kevin works in the area of network performance analysis and simulation as the PI for the project __Improving Data Movement Performance for Emerging AI and Climate Science Workloads on Future Supercomputers__, a 3-year Laboratory Directed Research Development (LDRD) Program funded project. 
+Kevin works in the area of network performance analysis and simulation as the PI for the project **Improving Data Movement Performance for Emerging AI and Climate Science Workloads on Future Supercomputers**, a 3-year Laboratory Directed Research Development (LDRD) Program funded project. 
 
 Kevin's profile page at ANL is located [here](https://www.anl.gov/profile/kevin-a-brown).
