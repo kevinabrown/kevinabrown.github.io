@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kevin A. Brown, PhD
+name: Kevin A. Brown, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.anl.gov"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a supercomputing researcher focusing on the evaluation of exascale interconnect performance.
+bio: I am a supercomputing researcher focusing on the evaluating and optimizing network and parallel I/O performance.
 
 interests:
 - Supercomputing
@@ -71,8 +71,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Kevin A. Brown is the inaugural Walter Massey (Postdoctoral) Fellow at Argonne National Laboratory, a US Department of Energy national research laboratory.
+I am the inaugural Walter Massey Fellow at Argonne National Laboratory, a US Department of Energy national research laboratory.
 
-Kevin works in the area of network performance analysis and simulation as the PI for the project **Improving Data Movement Performance for Emerging AI and Climate Science Workloads on Future Supercomputers**, a 3-year Laboratory Directed Research Development (LDRD) Program funded project. 
+I works in the area of network and I/O performance analysis as the PI for the project **Improving Data Movement Performance for Emerging AI and Climate Science Workloads on Future Supercomputers**, a 3-year Laboratory Directed Research Development (LDRD) Program funded project. 
 
-Kevin's profile page at ANL is located [here](https://www.anl.gov/profile/kevin-a-brown).
+My profile page at Argonne is [here](https://www.anl.gov/profile/kevin-a-brown).
